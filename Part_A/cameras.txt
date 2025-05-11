@@ -1,0 +1,5 @@
+# Camera list with one line of data per camera:
+#   CAMERA_ID, MODEL, WIDTH, HEIGHT, PARAMS[]
+# Number of cameras: 2
+0 SIMPLE_PINHOLE 2330 2314 2892.52 1165 1157
+1 SIMPLE_PINHOLE 2330 2332 2846.52 1165 1166
